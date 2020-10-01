@@ -4,7 +4,7 @@
 ## System Overview 
 
 <p align="center">
-  <img width="" height="" src=images/overallsystem2.PNG>
+  <img width="500" height="" src=images/system.jpg>
 </p>
 
 The system consists of:
