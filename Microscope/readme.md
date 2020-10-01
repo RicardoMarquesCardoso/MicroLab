@@ -27,6 +27,8 @@ For my requirements I chose the PlayStationEye camera for four main reasons: ava
 
 ### PSEye 
 
+The PSEye fullfills all the requirements while being cheap and widely available. To transform this webcam into a microscope we need to simply invert the lens, going from convex to concave. 
+
 
 
 ## Light
