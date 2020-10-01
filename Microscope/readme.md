@@ -18,7 +18,7 @@ A few options were considered:
 
 
 <p align="center">
-  <img width="500" height="" src=images/cameraoptions.jpg>
+  <img width="500" height="" src=images/cameraoptions.PNG>
 </p>
 
 The camera module OpenMV Cam H7 has a global shutter module that costs around 45 EUR.
