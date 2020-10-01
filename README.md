@@ -8,9 +8,31 @@
 </p>
 
 The system consists of:
-* Syringe Pump 
-* Microscope
-* Software
+* [Syringe Pump](Microlab/SyringePump) 
+* [Microscope](Microlab/Microscope) 
+* [Software](Microlab/Software) 
+
+**The peripherals were developed using 3D printing techniques and laser cutting. Both methods are required in order to build the system**
+
+## Contents
+
+### Syringe Pump
+
+* CAD drawings
+* Bill of materials
+* How to build 
+* Microcontroller Code
+
+### Microscope
+
+* Bill of materials
+* How to build 
+
+### Software
+
+* Raspberry Pi + Touchscreen
+* How to install Windows, Mac, Linux
+* Basic Guide
 
 ## About
 
