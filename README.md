@@ -3,13 +3,21 @@
 
 ## System Overview 
 
+<p align="center">
+  <img width="" height="" src=images/overallsystem2.PNG>
+</p>
 
+The system consists of:
+* Syringe Pump 
+* Microscope
+* Software
 
+## About
 
+My name is Ricardo Nuno Marquês Cardoso and this project was developed for my master thesis in Biomedical Engineering at the University of Porto and was developed in collaboration with the International Iberian Nanotechnology Laboratory.
 
 This project is inspired in solutions developed by [Martin Fischlechner, Jonathan West and Klaus-Peter Zauner](https://dropletkitchen.github.io/pages/projects.html) and by [Patcherlab](https://pachterlab.github.io/poseidon/). 
 
-This project is related to my master thesis in Biomedical Engineering at the University of Porto and was developed in collaboration with the International Iberian Nanotechnology Laboratory.
 
 
 
