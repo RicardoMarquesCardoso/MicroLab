@@ -51,3 +51,7 @@ This circuit allows the microscope to be powered by a common powerbank, avoiding
 The structure consists mostly of 5mm laser cut acrylic, bars and collets. 
 
 ## Bill of materials 
+
+<p align="center">
+  <img width="" height="" src=images/microscopebill.PNG>
+</p>
