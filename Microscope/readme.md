@@ -27,11 +27,24 @@ For my requirements I chose the PlayStationEye camera for four main reasons: ava
 
 ### PSEye 
 
-The PSEye fullfills all the requirements while being cheap and widely available. To transform this webcam into a microscope we need to simply invert the lens, going from convex to concave. 
+The PSEye fullfills all the requirements while being cheap and widely available. To transform this webcam into a microscope we need to simply invert the lens, going from concave to convex. An example on how to easily do this is found in [Hacketeria](https://www.hackteria.org/projects/ps3-eye-diy-microscopy-hack/). 
 
-
+Two variables are essential for any basic microscope, focusing and zooming. Focusing is regulated by the distance between the lens and the sample, zooming by the distance between the lens and the CMOS. To allow for zooming, I designed a 3D printed part that allows the user to change the distance of the lens to the CMOS ([Part1](https://github.com/RicardoMarquesCardoso/MicroLab/blob/main/Microscope/Parts/%5BPSeye%5D%201.SLDPRT);[Part2](https://github.com/RicardoMarquesCardoso/MicroLab/blob/main/Microscope/Parts/%5BPSeye%5D%202.SLDPRT)). 
 
 ## Light
+
+An independent circuit is responsible for illumination. One of the requirements for this microscope was that it should produce quality images even in total darkness. As so, a high-power LED was incorporated into the device. 
+
+<p align="center">
+  <img width="500" height="" src=images/lightscheme.PNG>
+</p>
+
+This circuit allows the microscope to be powered by a common powerbank, avoiding the need for another electrical outlet and making the microscope portable.
+
+<p align="center">
+  <img width="500" height="" src=images/microscopedark.jpg>
+</p>
+
 
 ## Structure
 
