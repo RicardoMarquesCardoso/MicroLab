@@ -1,5 +1,5 @@
 # MicroLab
-"This" project describes how to build a simple and inexpensive system for the opperation of microfluidic devices. The system consists of four syringe pumps and a microscope. To opperate this peripherals, software was also developed. 
+The Microlab project describes how to build a simple and inexpensive system for the opperation of microfluidic devices. The system consists of four syringe pumps and a microscope. To opperate this peripherals, software was also developed. 
 
 ## System Overview 
 
