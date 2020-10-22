@@ -36,7 +36,7 @@ The system consists of:
 
 ## About
 
-My name is Ricardo Nuno Marquês Cardoso and this project was developed for my master thesis in Biomedical Engineering at the University of Porto and was developed in collaboration with the International Iberian Nanotechnology Laboratory.
+This project was developed by me, Ricardo Cardoso, in collaboration with the International Iberian Nanotechnology Laboratory for my master thesis in Biomedical Engineering at the University of Porto .
 
 This project is inspired in solutions developed by [Martin Fischlechner, Jonathan West and Klaus-Peter Zauner](https://dropletkitchen.github.io/pages/projects.html) and by [Patcherlab](https://pachterlab.github.io/poseidon/). 
 
