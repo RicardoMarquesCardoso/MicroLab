@@ -67,6 +67,8 @@ You will need:
 * Welding machine;
 * Male USB connector;
 
+The circuit is very simple and it should take less than an hour to build. I advise you to check if the circuit is working (without welding) before mounting it onto the microscope structure. 
+
 <p align="center">
   <img width="500" height="" src=images/lightscheme.PNG>
 </p>
@@ -81,7 +83,15 @@ To simplify the powering of the circuit, a male USB connector is added to the en
 
 ## Structure
 
-The structure consists mostly of 5mm laser cut acrylic, bars and collets. 
+You will need:
+
+* 1x A3 Acrylic sheets (5mm);
+* 4x Steel Bar 6x70 mm;
+* 2x Steel Bar 6x130 mm;
+* 30x Collets 6mm;
+* Laser Cutter;
+
+
 
 ## Bill of materials 
 
