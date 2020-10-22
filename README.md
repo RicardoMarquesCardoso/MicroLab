@@ -9,7 +9,7 @@ The Microlab project describes how to build a simple and inexpensive system for 
 
 The system consists of:
 * [Syringe Pump](Microlab/SyringePump) 
-* [Microscope](Microlab/Microscope) 
+* [Microscope](https://github.com/RicardoMarquesCardoso/MicroLab/tree/main/Microscope) 
 * [Software](Microlab/Software) 
 
 **The peripherals were developed using 3D printing techniques and laser cutting. Both methods are required in order to build the system**
