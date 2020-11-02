@@ -103,11 +103,11 @@ If it's the first time building the device I would suggest to print each part se
 4. Screw the microscope stage in place.
 
 <p align="center">
-  <img width="" height="" src=images/Step2.1.PNG>
+  <img width="" height="400" src=images/Step2.1.PNG>
 </p>
 
 <p align="center">
-  <img width="" height="" src=images/Step2.2.PNG>
+  <img width="" height="400" src=images/Step2.2.PNG>
 </p>
 
 
@@ -121,11 +121,11 @@ If it's the first time building the device I would suggest to print each part se
 6. Place the mounted camera part into place.
 
 <p align="center">
-  <img width="" height="" src=images/camera2.PNG>
+  <img width="" height="400" src=images/camera2.PNG>
 </p>
 
 <p align="center">
-  <img width="" height="" src=images/Step4.1.PNG>
+  <img width="" height="400" src=images/Step4.1.PNG>
 </p>
 
 ### Step 3
@@ -133,7 +133,13 @@ If it's the first time building the device I would suggest to print each part se
 1. Print and place the bottom part and LED parts.
 
 <p align="center">
-  <img width="" height="" src=images/step5.1.PNG>
+  <img width="" height="400" src=images/step5.1.PNG>
+</p>
+
+## Results
+
+<p align="center">
+  <img width="" height="500" src=images/Results1.png>
 </p>
 
 ## Bill of materials 
