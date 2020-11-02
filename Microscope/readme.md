@@ -1,6 +1,6 @@
 # Microscope
 
-### What
+### Introduction
 
 This describes a portable, low-cost, easy to build microscope suitable for the operation of microfluidic devices. 
 The microscope consists of three main parts: 
@@ -13,7 +13,7 @@ The microscope consists of three main parts:
   <img width="500" height="" src=images/microscope.jpg>
 </p>
 
-### How
+### Materials and tools
 
 Besides all required [materials](#bill-of-materials), to replicate this project you will need access to a: 
 
@@ -91,20 +91,12 @@ You will need:
 * 30x Collets 6mm;
 * Laser Cutter;
 
-Before cutting any piece in acrylic check the measurements and test them with your machine setup. 
-To easy the proccess, each 'hole' in the acrylic is highlighted with a certain color:
+Before cutting any piece in acrylic [check](https://github.com/RicardoMarquesCardoso/MicroLab/tree/main/Microscope/Parts) the measurements and test them with your machine setup. 
 
-- ![#c5f015](https://via.placeholder.com/15/8affb2/000000?text=+)- Measurements that don't need much attention;
-- ![#1589F0](https://via.placeholder.com/15/ffff80/000000?text=+)- Measurements that need some checking since some precision is required;
-- ![#f03c15](https://via.placeholder.com/15/ff9696/000000?text=+)- Measurements that need to be thoroughly checked, a lot of precision is required;
-
-If it's the first time building the device I would suggest to print part by part as mount the microscope. 
+If it's the first time building the device I would suggest to print each part separately. 
 
 ### Step 1
 
-<p align="center">
-  <img width="500" height="" src=images/TopPart.PNG>
-</p>
 
 <p align="center">
   <img width="500" height="" src=images/Step1.PNG>
