@@ -14,7 +14,7 @@ To easy the proccess, each 'hole' in the acrylic is highlighted with a certain c
   <img width="500" height="" src=images/TopPart.PNG>
 </p>
 
-**Keep in mind that your microscope stage may be different
+**Keep in mind that your microscope stage may be different**
 
 ## Bottom
 
@@ -22,7 +22,7 @@ To easy the proccess, each 'hole' in the acrylic is highlighted with a certain c
   <img width="500" height="" src=images/Bottom.PNG>
 </p>
 
-**Lead Screw hold should be smaller than the point of the lead screw. 
+**Lead Screw hold should be smaller than the point of the lead screw.** 
 
 ## Light 
 
@@ -30,7 +30,7 @@ To easy the proccess, each 'hole' in the acrylic is highlighted with a certain c
   <img width="500" height="" src=images/light.PNG>
 </p>
 
-**Put each component in the respective place and then weld the circuit.
+**Put each component in the respective place and then weld the circuit.**
 
 ## Camera
 
@@ -38,5 +38,5 @@ To easy the proccess, each 'hole' in the acrylic is highlighted with a certain c
   <img width="500" height="" src=images/camera.PNG>
 </p>
 
-**This is designed to hold a PSEYE, if you chose a different camera please alter the respective dimensions. 
+**This is designed to hold a PSEYE, if you chose a different camera please alter the respective dimensions.** 
 
