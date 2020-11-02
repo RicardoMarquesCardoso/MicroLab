@@ -116,9 +116,10 @@ If it's the first time building the device I would suggest to print each part se
 1. Print the parts that will hold the camera ([Top1](https://github.com/RicardoMarquesCardoso/MicroLab/blob/main/Microscope/Designs/%5BMovingPiece%5DTop1.DXF),[Top2](https://github.com/RicardoMarquesCardoso/MicroLab/blob/main/Microscope/Designs/%5BMovingPiece%5DTop2.DXF),[Bottom](https://github.com/RicardoMarquesCardoso/MicroLab/blob/main/Microscope/Designs/%5BMovingPiece%5DBottom.DXF))
 2. Glue the top parts to the bottom using double sided tape.
 3. Put the linear bearings into the respective holes. They should be very tight to impossibilitate the acrylic from sliding.
-4. Place the nut and the screw.
-5. With the microscope in upright position place the 2 support bars and pin them in place. 
-6. Place the mounted camera part into place.
+4. Screw the modified PSEye in place. 
+5. Place the nut and the screw.
+6. With the microscope in upright position place the 2 support bars and pin them in place. 
+7. Place the mounted camera part into place.
 
 <p align="center">
   <img width="" height="400" src=images/camera2.PNG>
