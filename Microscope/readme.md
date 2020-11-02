@@ -97,6 +97,11 @@ If it's the first time building the device I would suggest to print each part se
 
 ### Step 1
 
+1. Print the two top parts of the microscope ([Part1](https://github.com/RicardoMarquesCardoso/MicroLab/blob/main/Microscope/Designs/%5BTop%5DPart1.DXF),[Part2](https://github.com/RicardoMarquesCardoso/MicroLab/blob/main/Microscope/Designs/%5BTop%5DPart2.DXF)
+2. Glue them together using double sided tape.
+3. Place a collet in the tip of each 6x70mm steel bar and slide them into the respective holes. Then using another collet pin the steel bars. 
+4. Screw the microscope stage in place.
+
 <p align="center">
   <img width="" height="" src=images/Step2.1.PNG>
 </p>
@@ -108,6 +113,13 @@ If it's the first time building the device I would suggest to print each part se
 
 ### Step 2
 
+1. Print the parts that will hold the camera ([Top1](https://github.com/RicardoMarquesCardoso/MicroLab/blob/main/Microscope/Designs/%5BMovingPiece%5DTop1.DXF),[Top2](https://github.com/RicardoMarquesCardoso/MicroLab/blob/main/Microscope/Designs/%5BMovingPiece%5DTop2.DXF),[Bottom](https://github.com/RicardoMarquesCardoso/MicroLab/blob/main/Microscope/Designs/%5BMovingPiece%5DBottom.DXF))
+2. Glue the top parts to the bottom using double sided tape.
+3. Put the linear bearings into the respective holes. They should be very tight to impossibilitate the acrylic from sliding.
+4. Place the nut and the screw.
+5. With the microscope in upright position place the 2 support bars and pin them in place. 
+6. Place the mounted camera part into place.
+
 <p align="center">
   <img width="" height="" src=images/camera2.PNG>
 </p>
@@ -117,6 +129,8 @@ If it's the first time building the device I would suggest to print each part se
 </p>
 
 ### Step 3
+
+1. Print and place the bottom part and LED parts.
 
 <p align="center">
   <img width="" height="" src=images/step5.1.PNG>
