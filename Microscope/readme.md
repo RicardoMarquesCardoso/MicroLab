@@ -139,7 +139,7 @@ If it's the first time building the device I would suggest to print each part se
 ## Results
 
 <p align="center">
-  <img width="" height="500" src=images/Results1.png>
+  <img width="" height=" " src=images/Results1.png>
 </p>
 
 ## Bill of materials 
