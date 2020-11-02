@@ -97,12 +97,30 @@ If it's the first time building the device I would suggest to print each part se
 
 ### Step 1
 
+<p align="center">
+  <img width="" height="" src=images/Step2.1.PNG>
+</p>
 
 <p align="center">
-  <img width="500" height="" src=images/Step1.PNG>
+  <img width="" height="" src=images/Step2.2.PNG>
 </p>
 
 
+### Step 2
+
+<p align="center">
+  <img width="" height="" src=images/camera2.PNG>
+</p>
+
+<p align="center">
+  <img width="" height="" src=images/Step4.1.PNG>
+</p>
+
+### Step 3
+
+<p align="center">
+  <img width="" height="" src=images/step5.1.PNG>
+</p>
 
 ## Bill of materials 
 
